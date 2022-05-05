@@ -1,4 +1,4 @@
-# ATM Similator
+# ATM Similator ![](https://visitor-badge.glitch.me/badge?page_id=CodenZed.CodenZed)
 
 ## Main Menu
 ```md
